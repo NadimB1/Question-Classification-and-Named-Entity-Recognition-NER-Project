@@ -49,3 +49,6 @@ Evaluate the model's performance using appropriate metrics.
 Clone the repository and navigate to the project directory.
 Open the Jupyter Notebooks (main.ipynb and train_ner_model.ipynb) to explore and run the code.
 Follow the steps outlined in the notebooks to preprocess the data, train the models, and evaluate their performance.
+
+# License
+This project is proprietary and may require permissions to use or modify.
